@@ -1,5 +1,6 @@
 # TacoTown
 
+This is a simple NodeJS backend project.  
 The aim of this project is to parse JSON into JS object and vice-versa.
 
 The site is live, click on the link below to visit site.
